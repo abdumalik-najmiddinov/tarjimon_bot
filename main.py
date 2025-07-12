@@ -5,7 +5,7 @@ from aiogram.filters import Command
 from aiogram.types import Message
 from googletrans import Translator
 
-API_TOKEN = "8117810778:AAGJQi6rhDnVQVlPJKDmOzkiw7CYCFptiao"
+API_TOKEN = "BOT_TOKEN"
 
 lists = ["ahmoq", "telba", "jinni", "tupoy"]
 
